@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\PROG\App\DLL\Revit2022API342.dll"</Assembly>
+		<AddInId>8C674E1D-D3FB-44CC-AE80-EF7848D0EA8A</AddInId>
+		<FullClassName>Revit2022API342.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Сохранение данных труб в .xlsx</Text>
+	</AddIn>
+</RevitAddIns>

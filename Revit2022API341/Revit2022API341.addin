@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\PROG\App\DLL\Revit2022API341.dll"</Assembly>
+		<AddInId>1D2BD825-610E-4FD2-BB4C-FCFA72257F72</AddInId>
+		<FullClassName>Revit2022API341.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Чтение и запись. Сохранение стен в .txt</Text>
+	</AddIn>
+</RevitAddIns>
+
